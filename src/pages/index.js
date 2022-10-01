@@ -17,9 +17,9 @@ export default () => (
             <TextWrapper>
                 <div>
                     <h2>GeekyHacker</h2>
-                    <GenericPara> One Stop for<br />
-                        All your development<br />
-                        And design needs
+                    <GenericPara>One Stop for<br />
+                    All your development<br />
+                    And design needs
                     </GenericPara>
                     <Link to="/works">Our Works</Link>
                 </div>
